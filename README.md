@@ -4,7 +4,7 @@
 
 | Lektion |       Emne                            |
 |:-----:|:----------------------------------------------------------|
-|  1  | [Hardware & Abstractions - Computer Architecture](lessons/ses1.md)           |
+|  1  | [Introduktion og emnet Hardware & Abstraktioner](lessons/ses1.md)           |
 |  2  | [Hardware & Abstractions - CPU, RAM, I/O](lessons/ses2.md)                  |
 |  3  | [Linux OS - Fundamentals & Comparisons](lessons/ses3.md)                    |
 |  4  | [Linux OS - Command Line Basics](lessons/ses4.md)                          |

@@ -1,3 +1,9 @@
 # Databases - Installation & Connections
 
-Content for Session 5 will be added here.
+## Forberedelse
+
+## Dagens indhold
+
+## Materialer
+
+### Øvelser
