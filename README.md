@@ -16,8 +16,8 @@
 |  10  | [Mini Project](lessons/ses10.md)                                            |
 |  11  | [Mini Project](lessons/ses11.md)                                            |
 |  Påske | |
-|  12  | [Feedback](lessons/ses12.md)                                            |
-|  13  | [Semester recap](lessons/ses13.md)                                       |
+|  12  | [Feedback & recap](lessons/ses12.md)                                            |
+|  13  | [Exam Project](lessons/ses13.md)                                       |
 |  14  | [Exam Project](lessons/ses14.md)                                            |
 |  15  | [Exam Project](lessons/ses15.md)                                            |
 |  16  | [Exam Project](lessons/ses16.md)                                            |
