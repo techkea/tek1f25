@@ -1,4 +1,5 @@
-# Hardware & Abstractions - CPU, RAM, I/O
+# Linux OS
+I dag skal i have installeret Linux så i kan lege med operativsystemet.
 
 ## Læringsmål
 * Installere Linux gennem Docker på din computer.
@@ -22,6 +23,20 @@ Se og følg tutorials i de tre videoer:
 Og installer det software vi skal bruge i undervisningen: [Installationer](https://techkea.github.io/f23/materialer/installationer.html)
 
 ## Dagens indhold
+I dag skal i have installeret Linux så i kan lege med operativsystemet.
+
+Det gør vi ved at følge denne fremgangsmåde: Installationer
+
+Herefter kommer vi til at lege med systemet og vi kommer blandt andet igennem at bruge disse kommandoer: Linux terminal commands and file system
+
+Men først kigger vi på øvelserne fra sidste lektion.
+
+Lav øvelserne: 
+
+* Øvelse: Kør et Java program på din linux computer og
+* Øvelse: Unix Command Exercises
+
+Hvis du skulle blive færdig før timen er overstået skal du blive ved med at lege med systemet indtil du rammer en time!
 
 ## Materialer
 

@@ -1,4 +1,4 @@
-# Linux OS - Command Line Basics
+# Obligatorisk opgave
 
 ## Forberedelse
 
