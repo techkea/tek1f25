@@ -1,4 +1,9 @@
-# Hardware & Abstractions - Computer Architecture
+# Introduktion og emnet Hardware & Abstraktioner
+Emnet for i dag hedder Computer Hardware og Abstraktioner.
+
+Du får et overblik over hvordan en computer fungerer. Feks. hvordan vi kommer fra et "hello world" program til at omsætte dette til en masse tænd/sluk insruktioner i din computers strømsystem. 
+
+Vi kommer også til at bruge en del tid på praktiske informationer vedr. dette semester og teknologifaget.    
 
 ## Forberedelse
 (ca 1 time)
@@ -34,7 +39,8 @@ Dagens slides: [Slides_lektion01.pdf](../assets/Slides_lektione01.pdf)
 Udover dette er det en god ide at kigge på læringsmålene for i dag (nederst på siden), og se efter om du har lært det du skulle for i dag.
 ## Materialer
 * [ASCII, ISO-8859, Unicode][../assets/ASCII_ISO-8859_Unicode.md]
-* [The binary number system](https://www.youtube.com/watch?v=sXxwr66Y79Y) (5:44)
+* [Binary - The SIMPLEST explanation of Counting and Converting Binary numbers](https://www.youtube.com/watch?v=RrJXLdv1i74) (22:14)
+* [The binary number system](https://www.youtube.com/watch?v=sXxwr66Y79Y) (5:44) - SKAL IKKE MED
 * [Læs: 6 sider om Operativsystemer](assets/6_sider_om_Operativsystemer.pdf) (20:00)
 * [Se: Networking tutorial 1-4](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) (29:41)
 * [Slides_lektion01.pdf](../assets/Slides_lektione01.pdf)i
