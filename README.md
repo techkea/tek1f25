@@ -4,9 +4,9 @@
 
 | Lektion |       Emne                            |
 |:-----:|:----------------------------------------------------------|
-|  1  | [Introduktion og emnet Hardware & Abstraktioner](lessons/ses1.md)           |
-|  2  | [Linux OS](lessons/ses2.md)                  |
-|  3  | [Linux OS - Fundamentals & Comparisons](lessons/ses3.md)                    |
+|  1  | [Computer Hardware](lessons/ses1.md)           |
+|  2  | [Abstraktioner](lessons/ses2.md)                  |
+|  3  | [Linux OS](lessons/ses3.md)                    |
 |  4  | [Obligatorisk opgave](lessons/ses4.md)                          |
 |  5  | [Databaser 1 - Installation, forbindelse](lessons/ses5.md)                   |
 |  6  | [Databaser 2 - Tables, Keys & Transactions](lessons/ses6.md)                  |

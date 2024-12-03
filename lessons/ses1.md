@@ -1,4 +1,4 @@
-# Introduktion og emnet Hardware & Abstraktioner
+# Introduktion og Hardware & Abstraktioner
 Emnet for i dag hedder Computer Hardware og Abstraktioner.
 
 Du får et overblik over hvordan en computer fungerer. Feks. hvordan vi kommer fra et "hello world" program til at omsætte dette til en masse tænd/sluk insruktioner i din computers strømsystem. 

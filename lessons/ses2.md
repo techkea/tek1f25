@@ -1,45 +1,52 @@
-# Linux OS
-I dag skal i have installeret Linux så i kan lege med operativsystemet.
+# Abstraktioner
+Emnet for i dag hedder Abstraktioner.
 
-## Læringsmål
-* Installere Linux gennem Docker på din computer.
-* Bruge Linux OS gennem dens terminal.
-* Få et praktisk overblik over de hyppigst brugte shell kommandoer.
-* Forstå Linux´s fil og mappestruktur.
-* Kunne installere applikationer i dit linux system.
-* Forstå hvad en package manager er og gør.
-* Kunne bruge en terminal baseret texteditor (nano)
-* Kunne eksevere applikationer (java programmer) på din linux computer.
+Du får et overblik over hvordan en computer fungerer på det softwaremæssige plan. Feks. hvordan vi kommer fra et "hello world" program til at omsætte dette til en masse tænd/sluk insruktioner i din computers strømsystem. 
 
+Vi kommer også til at bruge en del tid på praktiske informationer vedr. dette semester og teknologifaget.    
 
 ## Forberedelse
-(1 time)
-Se og følg tutorials i de tre videoer:
+(ca 1 time)
 
-* [Linux for Hackers // EP 1](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) (11:32)
-* [the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2](https://www.youtube.com/watch?v=A3G-3hp88mo&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=2) (20:32)
-* [HELP!! (for when you suck at Linux) // Linux for Hackers // EP3](https://www.youtube.com/watch?v=Y17KTiJLcyQ&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=3) (13:13)
+Det følgende skal i læse og se inden undervisningen. Det er ok hvis i ikke helt forstået det inden vi mødes, men det er et vigtigt grundlag for det vi skal lave i timerne også selvom det kun giver jer overblik over emnerne.  
 
-Og installer det software vi skal bruge i undervisningen: [Installationer](https://techkea.github.io/f23/materialer/installationer.html)
+* [Læs: 6 sider om Operativsystemer](../assets/6_sider_om_Operativsystemer.pdf) (20:00)
+* [Se: Networking tutorial 1-4](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) (29:41)
+
+## Læringsmål
+
+* Overblink over indholdet og læringsmålene for dette fag.
+* Kende til og kunne identificere en computers hardware komponenter.
+* Forstå et styrresystems kerneopgaver.
+* Forstå konceptet abstraktion i forhold til computer hardware, OS og programeringssprog. 
+* Forstå det binære talsystem
+* Forstå konceptet protokol
+
 
 ## Dagens indhold
-I dag skal i have installeret Linux så i kan lege med operativsystemet.
+Emnet for i dag hedder Computer Hardware og Abstraktioner.
 
-Det gør vi ved at følge denne fremgangsmåde: Installationer
+Du får et overblik over hvordan en computer fungerer. Feks. hvordan vi kommer fra et "hello world" program til at omsætte dette til en masse tænd/sluk insruktioner i din computers strømsystem. 
 
-Herefter kommer vi til at lege med systemet og vi kommer blandt andet igennem at bruge disse kommandoer: Linux terminal commands and file system
+Vi kommer også til at bruge en del tid på praktiske informationer vedr. dette semester og teknologifaget.    
 
-Men først kigger vi på øvelserne fra sidste lektion.
+Dagens slides: [Slides_lektion01.pdf](../assets/Slides_lektione01.pdf)
 
-Lav øvelserne: 
+* Øvelse: Binære tal
+* Øvelse: Bit, Byte, KB, MB osv.
+* Og du skal se denne video: Video: Compare C code to Assembly language (10:02)
 
-* Øvelse: Kør et Java program på din linux computer og
-* Øvelse: Unix Command Exercises
-
-Hvis du skulle blive færdig før timen er overstået skal du blive ved med at lege med systemet indtil du rammer en time!
-
+Udover dette er det en god ide at kigge på læringsmålene for i dag (nederst på siden), og se efter om du har lært det du skulle for i dag.
 ## Materialer
+* [ASCII, ISO-8859, Unicode][../assets/ASCII_ISO-8859_Unicode.md]
+* [Binary - The SIMPLEST explanation of Counting and Converting Binary numbers](https://www.youtube.com/watch?v=RrJXLdv1i74) (22:14)
+* [The binary number system](https://www.youtube.com/watch?v=sXxwr66Y79Y) (5:44) - SKAL IKKE MED
+* [Læs: 6 sider om Operativsystemer](assets/6_sider_om_Operativsystemer.pdf) (20:00)
+* [Se: Networking tutorial 1-4](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) (29:41)
+* [Slides_lektion01.pdf](../assets/Slides_lektione01.pdf)i
+* [Video: Compare C code to Assembly language](../assets/assembly_c.md) (10:02)
+
 
 ### Øvelser
-
-
+* [Binære tal](../assets/binære_tal.md)
+* [Bit_Byte_KB_MB](../assets/Bit_Byte_KB_MB.md)
