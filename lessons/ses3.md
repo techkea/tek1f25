@@ -20,7 +20,7 @@ Se og følg tutorials i de tre videoer:
 * [the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2](https://www.youtube.com/watch?v=A3G-3hp88mo&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=2) (20:32)
 * [HELP!! (for when you suck at Linux) // Linux for Hackers // EP3](https://www.youtube.com/watch?v=Y17KTiJLcyQ&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=3) (13:13)
 
-Og installer det software vi skal bruge i undervisningen: [Installationer](https://techkea.github.io/f23/materialer/installationer_f24.html)
+Og installer det software vi skal bruge i undervisningen: [Installationer](../assets/installationer.md)
 
 ## Dagens indhold
 I dag skal i have installeret Linux så i kan lege med operativsystemet.
