@@ -14,7 +14,7 @@
 |  8  | [Deployment 2 - Azure Mysql Database](lessons/ses8.md)                        |
 |  9  | [](lessons/ses9.md)                                      |
 |  10  | [Mini Project](lessons/ses10.md)                                            |
-|  11  | [Mini Project](lessons/ses11.md)               le                             |
+|  11  | [Mini Project](lessons/ses11.md)               |
 |  Påske | |
 |  12  | [Feedback & recap](lessons/ses12.md)                                            |
 |  13  | [Exam Project](lessons/ses13.md)                                       |
