@@ -4,8 +4,8 @@
 
 | Lektion |       Emne                            |
 |:-----:|:----------------------------------------------------------|
-|  1  | [Computer Hardware](lessons/ses1.md)           |
-|  2  | [Abstraktioner](lessons/ses2.md)                  |
+|  1  | [Introduktion til teknologi ](lessons/ses1.md)           |
+|  2  | [CPU, Semi-cundoctors, trasistore og binære tal](lessons/ses2.md)                  |
 |  3  | [Linux OS](lessons/ses3.md)                    |
 |  4  | [Obligatorisk opgave](lessons/ses4.md)                          |
 |  5  | [Databaser 1 - Installation, forbindelse](lessons/ses5.md)                   |

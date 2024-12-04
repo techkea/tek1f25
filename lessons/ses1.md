@@ -1,17 +1,25 @@
-# Introduktion og Hardware & Abstraktioner
-Emnet for i dag hedder Computer Hardware og Abstraktioner.
-
-Du får et overblik over hvordan en computer fungerer. Feks. hvordan vi kommer fra et "hello world" program til at omsætte dette til en masse tænd/sluk insruktioner i din computers strømsystem. 
-
-Vi kommer også til at bruge en del tid på praktiske informationer vedr. dette semester og teknologifaget.    
+# Introduktion til teknologi 
+Emnet for i dag er **Introduktion til Teknlogifaget**. I får et oveblik over hvad vi kommer til at lave hele semesteret, emner, opgaver, eksamen osv. Vi kommer desuden ind på lidt historik omkring computeren, og vi kigger på hvordan en computer er bygget op og dens komponenter.
 
 ## Forberedelse
-(ca 1 time)
+Det følgende skal i læse og se igennem inden undervisningen. Det er ok hvis i ikke helt forstået det inden vi mødes, men det er et vigtigt grundlag for det vi skal lave i timerne også selvom det kun giver jer overblik over emnerne.  
 
-Det følgende skal i læse og se inden undervisningen. Det er ok hvis i ikke helt forstået det inden vi mødes, men det er et vigtigt grundlag for det vi skal lave i timerne også selvom det kun giver jer overblik over emnerne.  
+For at se de følgende videoer skal du have en konto hos Linkedin learning. Som studerende har du gratis adgang. Du kan oprette en konto via dette link:
 
-* [Læs: 6 sider om Operativsystemer](../assets/6_sider_om_Operativsystemer.pdf) (20:00)
+* [Opret konto LinkedIn Learning](https://bibliotek.kea.dk/da/alle-ressourcer/linkedinlearning)
+
+Herefter skal du se disse fire videoer:
+
+* [Looking inside the box](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?resume=false&u=36836804) (3:34)
+* [Exploring the motherboard](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?resume=false&u=36836804) (4:12)
+* [Accessing internal storage](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-internal-storage?resume=false&u=36836804) (2:38)
+* [Understanding power og cooling](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?resume=false&u=36836804) (4:44)
+
+
+Og have set de første 4 videoer i denne playliste:
+
 * [Se: Networking tutorial 1-4](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) (29:41)
+
 
 ## Læringsmål
 
@@ -24,7 +32,15 @@ Det følgende skal i læse og se inden undervisningen. Det er ok hvis i ikke hel
 
 
 ## Dagens indhold
-Emnet for i dag hedder Computer Hardware og Abstraktioner.
+I timerne i dag kommer vi til at kigge på en computers hardware. blandt andet til at kigge på computerens CPU.
+I kan efterfølgende se denne video hvis i ikke helt kan huske hvad vi snakkede om. 
+
+
+
+
+
+
+Emnet for i dag hedder Computer Hardware.
 
 Du får et overblik over hvordan en computer fungerer. Feks. hvordan vi kommer fra et "hello world" program til at omsætte dette til en masse tænd/sluk insruktioner i din computers strømsystem. 
 

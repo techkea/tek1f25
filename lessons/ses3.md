@@ -13,6 +13,9 @@ I dag skal i have installeret Linux så i kan lege med operativsystemet.
 
 
 ## Forberedelse
+
+* [Læs: 6 sider om Operativsystemer](../assets/6_sider_om_Operativsystemer.pdf) (20:00)
+
 (1 time)
 Se og følg tutorials i de tre videoer:
 
