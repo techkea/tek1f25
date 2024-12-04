@@ -5,8 +5,8 @@
 | Lektion |       Emne                            |
 |:-----:|:----------------------------------------------------------|
 |  1  | [Introduktion til teknologi ](lessons/ses1.md)           |
-|  2  | [CPU, Semi-cundoctors, trasistore og binære tal](lessons/ses2.md)                  |
-|  3  | [Linux OS](lessons/ses3.md)                    |
+|  2  | [[Linux OS](lessons/ses2.md)                    |
+|  3  | [Databaser 1 - Installation       |
 |  4  | [Obligatorisk opgave](lessons/ses4.md)                          |
 |  5  | [Databaser 1 - Installation, forbindelse](lessons/ses5.md)                   |
 |  6  | [Databaser 2 - Tables, Keys & Transactions](lessons/ses6.md)                  |
