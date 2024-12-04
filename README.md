@@ -5,7 +5,7 @@
 | Lektion |       Emne                            |
 |:-----:|:----------------------------------------------------------|
 |  1  | [Introduktion til teknologi ](lessons/ses1.md)           |
-|  2  | [[Linux OS](lessons/ses2.md)                    |
+|  2  | [Linux OS](lessons/ses2.md)                    |
 |  3  | [Databaser 1 - Installation](lessons/ses3.md)       |
 |  4  | [Obligatorisk opgavei (sql)](lessons/ses4.md)                          |
 |  5  | [Databaser 3 - Installation, forbindelse](lessons/ses5.md)                   |
